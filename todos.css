@@ -1,0 +1,11 @@
+li {
+	border: 2px solid red;
+}
+
+#thirdy-birdy {
+	background-color: yellow;
+}
+
+.done {
+	text-decoration: line-through;
+}
